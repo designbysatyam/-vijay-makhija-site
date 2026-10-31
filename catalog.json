@@ -1,0 +1,190 @@
+{
+ "version": 2,
+ "groups": {
+  "CAF": {
+   "wraps": [
+    {
+     "id": "w1",
+     "label": "Main password",
+     "salt": "90F0zC85tS6dqqpyPQc+KA==",
+     "iter": 600000,
+     "wrap": "hJZnmObuDWSF1vKC09uA+Wili6ZP/ep8MsRApeFaX7yhy59hvRYSDu0z+c83ebBlIRfx03Z3n8R9wBHP"
+    }
+   ]
+  }
+ },
+ "folders": [
+  {
+   "level": "CAF",
+   "name": "Indian Contract Act, 1872"
+  },
+  {
+   "level": "CAF",
+   "name": "Sale of Goods Act, 1930"
+  },
+  {
+   "level": "CAF",
+   "name": "Indian Partnership Act, 1932"
+  },
+  {
+   "level": "CAF",
+   "name": "Limited Liability Partnership Act, 2008"
+  },
+  {
+   "level": "CAF",
+   "name": "Companies Act, 2013"
+  },
+  {
+   "level": "CAF",
+   "name": "Practice Questions"
+  },
+  {
+   "level": "CA Inter",
+   "name": "Companies Act, 2013"
+  },
+  {
+   "level": "CA Inter",
+   "name": "Negotiable Instruments Act, 1881"
+  },
+  {
+   "level": "CA Inter",
+   "name": "General Clauses Act, 1897"
+  },
+  {
+   "level": "CA Inter",
+   "name": "Interpretation of Statutes"
+  },
+  {
+   "level": "CA Inter",
+   "name": "FEMA, 1999"
+  },
+  {
+   "level": "CA Inter",
+   "name": "Practice Questions"
+  },
+  {
+   "level": "CS",
+   "name": "Company Law"
+  },
+  {
+   "level": "CS",
+   "name": "Jurisprudence, Interpretation & General Laws"
+  },
+  {
+   "level": "CS",
+   "name": "Economic, Business & Commercial Laws"
+  },
+  {
+   "level": "CS",
+   "name": "Practice Questions"
+  }
+ ],
+ "docs": [
+  {
+   "id": "caf-companies-act-2013-complete-notes-3517f3",
+   "title": "Complete Notes",
+   "level": "CAF",
+   "folder": "Companies Act, 2013",
+   "pages": 65,
+   "ar": [
+    0.7067,
+    0.7726,
+    0.7067,
+    0.7067,
+    0.7726,
+    0.7726,
+    0.7726,
+    0.7726,
+    0.7726,
+    0.7726,
+    0.7726,
+    0.7726,
+    0.7726,
+    0.7726,
+    0.7726,
+    0.7726,
+    0.7726,
+    0.7726,
+    0.7726,
+    0.7726,
+    0.7726,
+    0.7726,
+    0.7726,
+    0.7726,
+    0.7726,
+    0.7726,
+    0.7067,
+    0.7067,
+    0.7067,
+    0.7067,
+    0.7067,
+    0.7067,
+    0.7726,
+    0.7067,
+    0.7067,
+    0.7067,
+    0.7067,
+    0.7067,
+    0.7067,
+    0.7726,
+    0.7067,
+    0.7067,
+    0.7067,
+    0.7067,
+    0.7067,
+    0.7067,
+    0.7067,
+    0.7067,
+    0.7067,
+    0.7067,
+    0.7067,
+    0.7067,
+    0.7067,
+    0.7067,
+    0.7067,
+    0.7067,
+    0.7726,
+    0.7726,
+    0.7726,
+    0.7726,
+    0.7726,
+    0.7726,
+    0.7726,
+    0.7726,
+    0.7726
+   ],
+   "size": 12303708,
+   "added": "2026-10-29"
+  },
+  {
+   "id": "caf-indian-partnership-act-1932-unit-1-nature-of-partnership-3b2dd6",
+   "title": "Unit 1: Nature of Partnership",
+   "level": "CAF",
+   "folder": "Indian Partnership Act, 1932",
+   "pages": 22,
+   "ar": 0.7067,
+   "size": 5719708,
+   "added": "2026-10-29"
+  },
+  {
+   "id": "caf-indian-partnership-act-1932-section-wise-notes-rights-li-a39008",
+   "title": "Section-wise Notes: Rights, Liabilities and Reconstitution",
+   "level": "CAF",
+   "folder": "Indian Partnership Act, 1932",
+   "pages": 31,
+   "ar": 0.7067,
+   "size": 7642528,
+   "added": "2026-10-29"
+  },
+  {
+   "id": "caf-practice-questions-mixed-case-study-questions-9f758c",
+   "title": "Mixed Case-Study Questions",
+   "level": "CAF",
+   "folder": "Practice Questions",
+   "pages": 4,
+   "ar": 0.7071,
+   "size": 1137540,
+   "added": "2026-10-29"
+  }
+ ]
+}

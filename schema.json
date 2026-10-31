@@ -1,0 +1,585 @@
+{
+ "fields": [
+  {
+   "key": "intro.name",
+   "label": "Opening animation: name",
+   "group": "Brand and footer",
+   "type": "intro",
+   "default": "Vijay Makhija"
+  },
+  {
+   "key": "intro.roles",
+   "label": "Opening animation: line under the name",
+   "group": "Brand and footer",
+   "type": "text",
+   "default": "Law Faculty  /  CAF  /  CA Inter  /  CS"
+  },
+  {
+   "key": "brand.logo",
+   "label": "Logo initials",
+   "group": "Brand and footer",
+   "type": "text",
+   "default": "VM"
+  },
+  {
+   "key": "brand.name",
+   "label": "Brand name",
+   "group": "Brand and footer",
+   "type": "text",
+   "default": "CS Vijay Makhija"
+  },
+  {
+   "key": "brand.sub",
+   "label": "Brand tagline",
+   "group": "Brand and footer",
+   "type": "text",
+   "default": "CAF, CA Inter & CS Mentor"
+  },
+  {
+   "key": "nav.cta",
+   "label": "Menu button label",
+   "group": "Brand and footer",
+   "type": "text",
+   "default": "Join on Telegram"
+  },
+  {
+   "key": "hero.chips",
+   "label": "Role chips (one per line)",
+   "group": "Home page",
+   "type": "lines-span",
+   "default": "Law Faculty\nCAF\nCA Inter\nCS"
+  },
+  {
+   "key": "hero.cs",
+   "label": "Big heading: first word",
+   "group": "Home page",
+   "type": "text",
+   "default": "CS"
+  },
+  {
+   "key": "hero.n1",
+   "label": "Big heading: second word",
+   "group": "Home page",
+   "type": "text",
+   "default": "Vijay"
+  },
+  {
+   "key": "hero.n2",
+   "label": "Big heading: third word",
+   "group": "Home page",
+   "type": "text",
+   "default": "Makhija"
+  },
+  {
+   "key": "hero.lead",
+   "label": "Intro paragraph",
+   "group": "Home page",
+   "type": "area",
+   "default": "Law faculty for CAF, CA Inter and CS students. Private study notes organised statute by statute, and full lectures on YouTube."
+  },
+  {
+   "key": "hero.b1",
+   "label": "Button 1",
+   "group": "Home page",
+   "type": "text",
+   "default": "Browse notes"
+  },
+  {
+   "key": "hero.b2",
+   "label": "Button 2",
+   "group": "Home page",
+   "type": "text",
+   "default": "Watch lectures"
+  },
+  {
+   "key": "hero.f1",
+   "label": "Floating badge 1",
+   "group": "Home page",
+   "type": "text",
+   "default": "Notes on Telegram"
+  },
+  {
+   "key": "hero.f2",
+   "label": "Floating badge 2",
+   "group": "Home page",
+   "type": "text",
+   "default": "Lectures on YouTube"
+  },
+  {
+   "key": "home.marquee",
+   "label": "Moving statute strip (one per line)",
+   "group": "Home page",
+   "type": "marquee",
+   "default": "Indian Contract Act, 1872\nSale of Goods Act, 1930\nIndian Partnership Act, 1932\nLLP Act, 2008\nCompanies Act, 2013\nNegotiable Instruments Act, 1881\nGeneral Clauses Act, 1897\nInterpretation of Statutes\nFEMA, 1999\nJurisprudence"
+  },
+  {
+   "key": "home.lib.h",
+   "label": "Library: heading",
+   "group": "Home page",
+   "type": "text",
+   "default": "The library"
+  },
+  {
+   "key": "home.lib.p",
+   "label": "Library: text",
+   "group": "Home page",
+   "type": "area",
+   "default": "Organised by level and statute. New material appears here as soon as it is published."
+  },
+  {
+   "key": "home.p1.h",
+   "label": "Card 1: title",
+   "group": "Home page",
+   "type": "text",
+   "default": "Notes"
+  },
+  {
+   "key": "home.p1.p",
+   "label": "Card 1: text",
+   "group": "Home page",
+   "type": "area",
+   "default": "Password-protected notes in folders, by level and statute."
+  },
+  {
+   "key": "home.p2.h",
+   "label": "Card 2: title",
+   "group": "Home page",
+   "type": "text",
+   "default": "Lectures"
+  },
+  {
+   "key": "home.p2.p",
+   "label": "Card 2: text",
+   "group": "Home page",
+   "type": "area",
+   "default": "Full-length private lectures, available with your access password."
+  },
+  {
+   "key": "home.p3.c",
+   "label": "Card 3: small label",
+   "group": "Home page",
+   "type": "text",
+   "default": "Law faculty"
+  },
+  {
+   "key": "home.p3.h",
+   "label": "Card 3: title",
+   "group": "Home page",
+   "type": "text",
+   "default": "About"
+  },
+  {
+   "key": "home.p3.p",
+   "label": "Card 3: text",
+   "group": "Home page",
+   "type": "area",
+   "default": "The faculty behind the notes and lectures."
+  },
+  {
+   "key": "home.ln.h",
+   "label": "Latest notes: heading",
+   "group": "Home page",
+   "type": "text",
+   "default": "Latest notes"
+  },
+  {
+   "key": "home.ln.m",
+   "label": "Latest notes: link",
+   "group": "Home page",
+   "type": "text",
+   "default": "All notes"
+  },
+  {
+   "key": "home.ll.h",
+   "label": "Lectures: heading",
+   "group": "Home page",
+   "type": "text",
+   "default": "Private lectures"
+  },
+  {
+   "key": "home.ll.m",
+   "label": "Lectures: link",
+   "group": "Home page",
+   "type": "text",
+   "default": "All lectures"
+  },
+  {
+   "key": "home.prog.h",
+   "label": "Programmes: heading",
+   "group": "Home page",
+   "type": "text",
+   "default": "Programmes"
+  },
+  {
+   "key": "home.prog.p",
+   "label": "Programmes: text",
+   "group": "Home page",
+   "type": "area",
+   "default": "Law subjects for each level. Choose a level to see its notes."
+  },
+  {
+   "key": "lv.caf.tag",
+   "label": "CAF: small label",
+   "group": "Programmes (home and about pages)",
+   "type": "text",
+   "default": "CA Foundation"
+  },
+  {
+   "key": "lv.caf.title",
+   "label": "CAF: title",
+   "group": "Programmes (home and about pages)",
+   "type": "text",
+   "default": "CAF"
+  },
+  {
+   "key": "lv.caf.sub",
+   "label": "CAF: subtitle",
+   "group": "Programmes (home and about pages)",
+   "type": "text",
+   "default": "Business Laws"
+  },
+  {
+   "key": "lv.caf.list",
+   "label": "CAF: subjects (one per line)",
+   "group": "Programmes (home and about pages)",
+   "type": "lines-li",
+   "default": "Indian Contract Act, 1872\nSale of Goods Act, 1930\nIndian Partnership Act, 1932\nLLP Act, 2008\nCompanies Act, 2013"
+  },
+  {
+   "key": "lv.inter.tag",
+   "label": "CA Inter: small label",
+   "group": "Programmes (home and about pages)",
+   "type": "text",
+   "default": "CA Intermediate"
+  },
+  {
+   "key": "lv.inter.title",
+   "label": "CA Inter: title",
+   "group": "Programmes (home and about pages)",
+   "type": "text",
+   "default": "CA Inter"
+  },
+  {
+   "key": "lv.inter.sub",
+   "label": "CA Inter: subtitle",
+   "group": "Programmes (home and about pages)",
+   "type": "text",
+   "default": "Corporate and Other Laws"
+  },
+  {
+   "key": "lv.inter.list",
+   "label": "CA Inter: subjects (one per line)",
+   "group": "Programmes (home and about pages)",
+   "type": "lines-li",
+   "default": "Companies Act, 2013\nNegotiable Instruments Act, 1881\nGeneral Clauses Act, 1897\nInterpretation of Statutes\nFEMA, 1999"
+  },
+  {
+   "key": "lv.cs.tag",
+   "label": "CS: small label",
+   "group": "Programmes (home and about pages)",
+   "type": "text",
+   "default": "Company Secretary"
+  },
+  {
+   "key": "lv.cs.title",
+   "label": "CS: title",
+   "group": "Programmes (home and about pages)",
+   "type": "text",
+   "default": "CS"
+  },
+  {
+   "key": "lv.cs.sub",
+   "label": "CS: subtitle",
+   "group": "Programmes (home and about pages)",
+   "type": "text",
+   "default": "Law papers"
+  },
+  {
+   "key": "lv.cs.list",
+   "label": "CS: subjects (one per line)",
+   "group": "Programmes (home and about pages)",
+   "type": "lines-li",
+   "default": "Company Law\nJurisprudence, Interpretation & General Laws\nEconomic, Business & Commercial Laws"
+  },
+  {
+   "key": "band.h",
+   "label": "Banner heading",
+   "group": "Banner above the footer",
+   "type": "text",
+   "default": "Practice questions on Telegram."
+  },
+  {
+   "key": "band.p",
+   "label": "Banner text",
+   "group": "Banner above the footer",
+   "type": "area",
+   "default": "Join the CA Foundation Law Questions channel for regular practice questions and announcements."
+  },
+  {
+   "key": "band.b1",
+   "label": "Banner button 1",
+   "group": "Banner above the footer",
+   "type": "text",
+   "default": "Join on Telegram"
+  },
+  {
+   "key": "band.b2",
+   "label": "Banner button 2",
+   "group": "Banner above the footer",
+   "type": "text",
+   "default": "Open notes"
+  },
+  {
+   "key": "footer.copy",
+   "label": "Footer line",
+   "group": "Brand and footer",
+   "type": "text",
+   "default": "© 2026 CS Vijay Makhija. Study material is shared for educational use."
+  },
+  {
+   "key": "notes.k",
+   "label": "Small label",
+   "group": "Notes page",
+   "type": "text",
+   "default": "Private library"
+  },
+  {
+   "key": "notes.h",
+   "label": "Heading",
+   "group": "Notes page",
+   "type": "text",
+   "default": "Notes"
+  },
+  {
+   "key": "notes.p",
+   "label": "Intro text",
+   "group": "Notes page",
+   "type": "area",
+   "default": "Folders by level and statute. Every document is password-protected: enter the access password from your faculty to read it."
+  },
+  {
+   "key": "lec.k",
+   "label": "Small label",
+   "group": "Lectures page",
+   "type": "text",
+   "default": "Private lectures"
+  },
+  {
+   "key": "lec.h",
+   "label": "Heading",
+   "group": "Lectures page",
+   "type": "text",
+   "default": "Lectures"
+  },
+  {
+   "key": "lec.p",
+   "label": "Intro text",
+   "group": "Lectures page",
+   "type": "area",
+   "default": "Full-length lectures and revision sessions for each level. Enter the access password from your faculty to watch them."
+  },
+  {
+   "key": "about.pt1.h",
+   "label": "Point 1: title",
+   "group": "About page",
+   "type": "text",
+   "default": "Notes"
+  },
+  {
+   "key": "about.pt1.p",
+   "label": "Point 1: text",
+   "group": "About page",
+   "type": "area",
+   "default": "Password-protected, organised by level and statute"
+  },
+  {
+   "key": "about.pt2.h",
+   "label": "Point 2: title",
+   "group": "About page",
+   "type": "text",
+   "default": "Lectures"
+  },
+  {
+   "key": "about.pt2.p",
+   "label": "Point 2: text",
+   "group": "About page",
+   "type": "area",
+   "default": "Private lectures for enrolled students"
+  },
+  {
+   "key": "about.pt3.h",
+   "label": "Point 3: title",
+   "group": "About page",
+   "type": "text",
+   "default": "Mentorship"
+  },
+  {
+   "key": "about.pt3.p",
+   "label": "Point 3: text",
+   "group": "About page",
+   "type": "area",
+   "default": "Guidance for CAF, CA Inter and CS students"
+  },
+  {
+   "key": "about.k",
+   "label": "Small label",
+   "group": "About page",
+   "type": "text",
+   "default": "Law Faculty"
+  },
+  {
+   "key": "about.h",
+   "label": "Heading",
+   "group": "About page",
+   "type": "text",
+   "default": "About"
+  },
+  {
+   "key": "about.cap",
+   "label": "Photo caption: name",
+   "group": "About page",
+   "type": "text",
+   "default": "CS Vijay Makhija"
+  },
+  {
+   "key": "about.name",
+   "label": "Name heading",
+   "group": "About page",
+   "type": "text",
+   "default": "CS Vijay Makhija"
+  },
+  {
+   "key": "about.bio1",
+   "label": "Paragraph 1",
+   "group": "About page",
+   "type": "area",
+   "default": "CS Vijay Makhija is a Law faculty and mentor for CAF, CA Inter and CS students. He holds B.Com, M.Com, LLB and CS qualifications."
+  },
+  {
+   "key": "about.bio2",
+   "label": "Paragraph 2",
+   "group": "About page",
+   "type": "area",
+   "default": "His handwritten notes, statute by statute, are kept here in a private library for his students, alongside his lectures."
+  },
+  {
+   "key": "about.creds",
+   "label": "Qualifications (one per line)",
+   "group": "About page",
+   "type": "lines-span",
+   "default": "B.Com\nM.Com\nLLB\nCS"
+  },
+  {
+   "key": "about.sub.h",
+   "label": "Subjects: heading",
+   "group": "About page",
+   "type": "text",
+   "default": "Subjects taught"
+  },
+  {
+   "key": "about.sub.p",
+   "label": "Subjects: text",
+   "group": "About page",
+   "type": "area",
+   "default": "Law papers across three levels."
+  },
+  {
+   "key": "contact.s1.n",
+   "label": "Step 1: label",
+   "group": "Contact page",
+   "type": "text",
+   "default": "Step 1"
+  },
+  {
+   "key": "contact.s1.h",
+   "label": "Step 1: title",
+   "group": "Contact page",
+   "type": "text",
+   "default": "Open Telegram"
+  },
+  {
+   "key": "contact.s1.p",
+   "label": "Step 1: text",
+   "group": "Contact page",
+   "type": "area",
+   "default": "Install the Telegram app on your phone, or open web.telegram.org in a browser."
+  },
+  {
+   "key": "contact.s2.n",
+   "label": "Step 2: label",
+   "group": "Contact page",
+   "type": "text",
+   "default": "Step 2"
+  },
+  {
+   "key": "contact.s2.h",
+   "label": "Step 2: title",
+   "group": "Contact page",
+   "type": "text",
+   "default": "Join the channel"
+  },
+  {
+   "key": "contact.s2.p",
+   "label": "Step 2: text",
+   "group": "Contact page",
+   "type": "area",
+   "default": "Select the Telegram tile above and choose Join."
+  },
+  {
+   "key": "contact.s3.n",
+   "label": "Step 3: label",
+   "group": "Contact page",
+   "type": "text",
+   "default": "Step 3"
+  },
+  {
+   "key": "contact.s3.h",
+   "label": "Step 3: title",
+   "group": "Contact page",
+   "type": "text",
+   "default": "Receive every update"
+  },
+  {
+   "key": "contact.s3.p",
+   "label": "Step 3: text",
+   "group": "Contact page",
+   "type": "area",
+   "default": "New notes and announcements arrive on your phone as soon as they are posted."
+  },
+  {
+   "key": "contact.k",
+   "label": "Small label",
+   "group": "Contact page",
+   "type": "text",
+   "default": "Stay connected"
+  },
+  {
+   "key": "contact.h",
+   "label": "Heading",
+   "group": "Contact page",
+   "type": "text",
+   "default": "Contact"
+  },
+  {
+   "key": "contact.p",
+   "label": "Intro text",
+   "group": "Contact page",
+   "type": "area",
+   "default": "Follow the channels below for practice questions, announcements and new lectures. For the notes password, ask your faculty."
+  },
+  {
+   "key": "contact.how.h",
+   "label": "Steps: heading",
+   "group": "Contact page",
+   "type": "text",
+   "default": "How to join the Telegram channel"
+  },
+  {
+   "key": "contact.how.p",
+   "label": "Steps: text",
+   "group": "Contact page",
+   "type": "area",
+   "default": "It takes under a minute."
+  }
+ ]
+}
