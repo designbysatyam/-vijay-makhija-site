@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T15:00:46.043Z",
+ "updated": "2026-10-31T16:12:22.781Z",
  "photo": "assets/photo-mvwj35ju.png",
  "text": {},
  "links": {
@@ -14,5 +14,8 @@
   "email": "",
   "email_label": ""
  },
- "theme": {}
+ "theme": {
+  "bg": "#161827",
+  "amber": "#f7bb55"
+ }
 }

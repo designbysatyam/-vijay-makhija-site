@@ -4,11 +4,11 @@
   "CAF": {
    "wraps": [
     {
-     "id": "w1",
-     "label": "Main password",
-     "salt": "90F0zC85tS6dqqpyPQc+KA==",
+     "id": "wmvwksirt81",
+     "label": "CA",
+     "salt": "8dxxiPY/AoQNc+u8VxoSZQ==",
      "iter": 600000,
-     "wrap": "hJZnmObuDWSF1vKC09uA+Wili6ZP/ep8MsRApeFaX7yhy59hvRYSDu0z+c83ebBlIRfx03Z3n8R9wBHP"
+     "wrap": "822l9hYv/SCEQmhxS0b5Jqy0zreRHkR0kj3Ct2TUgngr9v+KLKWl0T1hT9yvsWrd2UTLmUREyctyAIkq"
     }
    ]
   }
@@ -77,6 +77,10 @@
   {
    "level": "CS",
    "name": "Practice Questions"
+  },
+  {
+   "level": "CAF",
+   "name": "Q. Bank"
   }
  ],
  "docs": [
@@ -185,6 +189,27 @@
    "ar": 0.7071,
    "size": 1137540,
    "added": "2026-10-29"
+  },
+  {
+   "id": "caf-q-bank-law-brahmastra-ca-foundation-business-laws-312e4f",
+   "title": "Law-Brahmastra-CA-Foundation-Business-Laws",
+   "level": "CAF",
+   "folder": "Q. Bank",
+   "pages": 122,
+   "ar": 0.7071,
+   "size": 48359300,
+   "added": "2026-10-31",
+   "dl": true,
+   "mode": "own",
+   "wraps": [
+    {
+     "id": "wmvwl6iyf73",
+     "label": "Main password",
+     "salt": "1rsAvt822UZaXCSXWlh1EQ==",
+     "iter": 600000,
+     "wrap": "1g5G0N6JHBcTFyTig1B3nYKSmOqD4/9GFp1DhoEjF97SJmqsUR6LQHmMrqjh3CN5BaAsEs1sNYzVC5nL"
+    }
+   ]
   }
  ]
 }
